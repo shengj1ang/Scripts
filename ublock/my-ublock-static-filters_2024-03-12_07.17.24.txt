@@ -1,0 +1,224 @@
+! 2022-11-19 https://v2ex.com
+||v2ex.com/static/img/shadow_light.png$image
+v2ex.com##.wwads-vertical.wwads-cn
+
+
+*##html:style(-webkit-filter:none!important;)
+
+! 2022-12-06 https://www.quora.com
+www.quora.com##.qu-zIndex--blocking_wall.qu-overflow--hidden.qu-justifyContent--center.qu-alignItems--center.q-flex
+
+! 2022-12-17 https://www.nivodi.tv
+www.nivodi.tv##.warn-alert
+www.nivodi.tv##.cover
+
+! 2022-12-18 https://so.gushiwen.cn
+so.gushiwen.cn###threeWeixin2
+
+! 2023-01-09 https://theintercept.com
+||o.prod.theintercept.com/checkout/template/cacheableShow?aid=hsZyoAWmIE&templateId=OTY0REQ2TTZI&templateVariantId=OTVSGKENC1POW&offerId=fakeOfferId&experienceId=EXG79ONN2S2I&iframeId=offer_110580b21b4045730d63-0&displayMode=inline&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&widget=template&url=https%3A%2F%2Ftheintercept.com$subdocument
+||o.prod.theintercept.com/checkout/template/cacheableShow?aid=hsZyoAWmIE&templateId=OTY0REQ2TTZI&templateVariantId=OTVSGKENC1POW&offerId=fakeOfferId&experienceId=EXG79ONN2S2I&iframeId=offer_110580b21b4045730d63-0&displayMode=inline&pianoIdUrl=https%3A%2F%2Fid.tinypass.com%2Fid%2F&widget=template&url=https%3A%2F%2Ftheintercept.com$subdocument
+
+! 2023-01-29 https://www.freedidi.com
+||www.freedidi.com/wp-content/uploads/2017/vultr.png$image
+||www.freedidi.com/wp-content/uploads/2017/vultr.png$image
+||www.freedidi.com/wp-content/uploads/logo-2.png$image
+||www.freedidi.com/wp-content/uploads/huiguo.jpg$image
+||www.freedidi.com/wp-content/uploads/logo.png$image
+www.freedidi.com##p > [href^="https://www.vultr.com/"]
+
+! 2023-02-02 https://reqbin.com
+reqbin.com###ez-content-blocker-container
+
+! 2023-02-02 https://www.thetimes.co.uk
+||www.thetimes.co.uk/d/assets/theTimesLion-c066d00d58.png$image
+||www.thetimes.co.uk/d/assets/theTimesLion-c066d00d58.png$image
+
+! 2023-02-08 https://www.nivodi.tv
+www.nivodi.tv##.nav-ads
+
+! 2023-02-23 http://www.baidu.com
+www.baidu.com###s_wrap
+www.baidu.com###content_right
+
+! 2023-02-28 https://www.52pojie.cn
+www.52pojie.cn###append_parent
+
+! 2023-03-09 https://www.nivod4.tv
+www.nivod4.tv##.nav-ad-item
+
+! 2023-03-16 https://www.bilibili.com
+||i0.hdslb.com/bfs/vc/1045c564a1d99f00360d9f423b76f06ad09d2948.png@1c.webp$image
+
+! 2023-03-17 https://www.chegg.com
+www.chegg.com##.frlEjQ.styled__B1AdsWrapper-sc-1nx2zdf-0
+
+! 2023-03-22 https://gettr.com
+gettr.com##.jss369
+gettr.com##.jss4279
+
+! 2023-03-23 https://music.youtube.com
+music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope > .ytmusic-popup-container.style-scope
+
+#nbyy.tv-ADs
+#newpppp.com
+
+! 2023-03-28 https://www.bilibili.com Bilibili顶部等级
+www.bilibili.com##.level-item.v-popover-wrap
+
+! 2023-03-28 https://space.bilibili.com Bilibili用户中心等级会员
+space.bilibili.com##.h-user
+
+! https://www.bilibili.com Bilibili垃圾板块
+www.bilibili.com##.bili-feed4-layout
+! www.bilibili.com##.grid-anchor.recommended-swipe
+www.bilibili.com##.header-channel
+www.bilibili.com##.left-entry
+www.bilibili.com##li.v-popover-wrap:nth-of-type(2)
+www.bilibili.com##.inner-logo
+www.bilibili.com##.international-footer
+t.bilibili.com##.left-entry
+t.bilibili.com##li.v-popover-wrap:nth-of-type(2)
+message.bilibili.com##.left-entry
+message.bilibili.com##li.v-popover-wrap:nth-of-type(2)
+space.bilibili.com##.left-entry
+space.bilibili.com##li.v-popover-wrap:nth-of-type(2)
+member.bilibili.com##.cc-header > .header > .left-block
+www.bilibili.com##.trending
+www.bilibili.com##.item.copyright
+www.bilibili.com##.bpx-player-dm-hint
+www.bilibili.com##.manuscript-report
+www.bilibili.com##.video-card-ad-small.ad-report
+www.bilibili.com##.act-end.activity-m-v1
+
+! 2023-03-28 https://search.bilibili.com
+search.bilibili.com##.left-entry
+search.bilibili.com##li.v-popover-wrap:nth-of-type(2)
+search.bilibili.com##.activity-game-list-wrap
+search.bilibili.com###bili-header-container
+search.bilibili.com##.biliMainFooterWrapper
+search.bilibili.com##.trending
+
+! 2023-03-28 https://www.youtube.com
+www.youtube.com###country-code
+
+! 2023-04-05 https://passport.bilibili.com
+passport.bilibili.com##.left-entry
+passport.bilibili.com##.right-entry--vip.right-entry__outside
+passport.bilibili.com##.international-footer
+passport.bilibili.com##.header-upload-entry__icon > path
+passport.bilibili.com##.header-upload-entry
+
+! 2023-04-10 https://www.nite07.com
+www.nite07.com##.swal2-show.swal2-icon-info.swal2-modal.swal2-popup
+www.nite07.com##.swal2-backdrop-show.swal2-center.swal2-container
+
+! 2023-04-10 https://www.nivod4.tv
+||static.nivod4.tv/imgs/2023/04/10/b4d1b4de-64b0-4d09-8aef-2d29dc31fde1.jpg$image
+www.nivod4.tv###copytoshareAlert
+www.nivod4.tv###bg_cover
+
+! 2023-04-12 https://pan.baidu.com
+pan.baidu.com##.gr-panel-intro
+
+! 2023-04-12 https://im.qq.com
+||qq-web.cdn-go.cn/im.qq.com_new/b673bd69/img/video-qq9-poster.9983927f.png.webp$image
+
+! 2023-04-25 https://www.bilibili.com
+www.bilibili.com##.adblock-tips
+
+! 2023-04-25 https://www.torrentleech.org
+www.torrentleech.org##.vpn-msg-placeholder
+
+! 2023-05-01 https://www.bilibili.com
+www.bilibili.com##.user-level.level-6.svg-icon
+
+! 2023-05-03 https://www.nivod4.tv
+||static.nivod4.tv/imgs/2023/04/30/c47f9bae-7a56-4180-b069-23acb63f9f92.gif$image
+||static.nivod4.tv/imgs/2023/04/30/c47f9bae-7a56-4180-b069-23acb63f9f92.gif$image
+
+! 2023-05-04 https://www.bilibili.com
+www.bilibili.com##.vipPaybar_container__GsBut
+
+! 2023-05-06 https://zhangshuqiao.org
+zhangshuqiao.org###waifu
+
+! 2023-05-24 https://www-youtube-com.translate.goog
+www-youtube-com.translate.goog##.ytd-consent-bump-v2-lightbox.style-scope.eom-v1-dialog
+www-youtube-com.translate.goog##.opened
+
+! 2023-06-01 https://www.tumblr.com
+www.tumblr.com##.SaLOl
+www.tumblr.com##.Rog1D.tzb9e.hBHAJ
+www.tumblr.com##.yKniX
+www.tumblr.com##.Lq1wm
+www.tumblr.com##.D5eCV
+
+! 2023-08-26 https://yundun.console.aliyun.com
+yundun.console.aliyun.com##div.in.fade.modal:nth-of-type(7)
+yundun.console.aliyun.com##div.in.fade.modal:nth-of-type(6)
+yundun.console.aliyun.com##.in.fade.modal-backdrop
+yundun.console.aliyun.com##.in-add-active.ng-animate-active.in.ng-animate-start.in-add.ng-animate.fade.modal
+
+l2dwidget.js.org
+
+! 2023-12-25 https://clashforwindows.org
+clashforwindows.org##.elementor-sticky--effects.elementor-section--handles-inside.elementor-sticky--active.fadeInUp.animated.elementor-sticky.e-parent.e-con.e-con-boxed.e-flex.elementor-element-54a5a3b.elementor-element
+
+! 2023-12-30 https://v2ex.com
+||v2ex.com/static/img/shadow_light.png$image
+v2ex.com###Rightbar > div.box > .inner
+
+! 2024-01-13 https://www.thestudentroom.co.uk
+www.thestudentroom.co.uk##.custom-ekeie0.MuiDialog-scrollPaper.MuiDialog-container
+www.thestudentroom.co.uk##.custom-g13049.MuiModal-root.e1vvfbt10.MuiDialog-root > .custom-919eu4.MuiModal-backdrop.MuiBackdrop-root
+
+! 2024-01-27 https://cloud.oracle.com 屏蔽Oracle的引诱激活图标，一旦点击激活后就不再是免费账户了
+cloud.oracle.com##.oci-banner-list
+cloud.oracle.com##.upgrade-banner.right-rail-basic-banner
+cloud.oracle.com##.manage.section > .right-rail-widget > .right-rail-widget__container > .right-rail-widget__main
+
+
+
+! 2024-02-23 https://www.gmx.com
+www.gmx.com##.dialogContent
+www.gmx.com##.dialogWrapper
+www.gmx.com##.dialogOverlay
+
+! 2024-02-24 https://www.gmx.com 屏蔽GMX首页的垃圾新闻，只保留登录和注册按钮，删除GMX的图标
+www.gmx.com##.content-wrapper
+www.gmx.com##.seobox-bottom
+www.gmx.com###footerNav
+www.gmx.com##.nav-list
+www.gmx.com###adservice-bottom
+www.gmx.com##.on-mobile-hidden.searchbar
+www.gmx.com##.logo-link
+
+! 2024-03-07 https://www.bilibili.com 屏蔽bilibili.com顶部的傻逼政权的狗屎会议
+www.bilibili.com##.banner-link
+www.bilibili.com##picture.v-img.banner-img
+www.bilibili.com##.head-title
+
+
+
+! 2024-03-07 https://www.baidu.com 添加对百度的严格规则
+www.baidu.com##.s_lg_img_gold_showre
+www.baidu.com##.noTapColor
+www.baidu.com##.android.blank-frame
+www.baidu.com###bottom
+www.baidu.com##.s-weather-wrapper
+www.baidu.com##.s-bottom-layer-content
+www.baidu.com##.s-isindex-wrap.s-top-left-new
+www.baidu.com##.foot-container_2X1Nt
+
+! 2024-03-07 https://weibo.com
+||h5.sinaimg.cn/upload/1014/739/2022/10/08/20ddingdao.png$image
+
+! 2024-03-08 https://v2x8.com
+||tutu.facaiimage.com^
+||2024yun2024666888.comm^
+||cdn2024666888.2024yun2024666888.com^
+||666xx999kk.com^
+||888xx999kk.com^
+||liuyan2024.com^
+
